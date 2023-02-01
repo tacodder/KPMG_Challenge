@@ -1,5 +1,6 @@
 # KPMG_Challenge
-Answers related to 3 chanllenges
+Answers related to 3 challenges
+
 Challenge #1
 
 A 3 tier environment is a common setup. Use a tool of your choosing/familiarity create these resources. Please remember we will not be judging on the outcome but more on the approach, style and reproducibility.
